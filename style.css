@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Adana"; 
+    src: url("adana_script.ttf"); 
+  } 
+body{
+    background-image: url("7bef1b74-bc8f-4557-bb0a-d84739f800ce.png");
+    font-family: 'Adana';
+    font-size: 30px;
+}
+h1{
+    font-size: 70px;
+}
+.happy{
+    width: 650px;
+}
+.happy p{
+    padding: 10px;
+    background: linear-gradient(rgb(255, 204, 0), rgb(255, 255, 255));
+    border-radius: 15px;
+}
